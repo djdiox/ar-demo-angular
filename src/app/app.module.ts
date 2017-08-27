@@ -4,8 +4,8 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
-import { MarkerPageComponent } from './marker-page/marker-page.component';
-import { CameraPageComponent } from './camera-page/camera-page.component';
+import { MarkerPageComponent } from './components/marker-page/marker-page.component';
+import { CameraPageComponent } from './components/camera-page/camera-page.component';
 
 @NgModule({
   declarations: [
