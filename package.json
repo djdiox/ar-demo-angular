@@ -5,7 +5,7 @@
     "scripts": {
         "ng": "ng",
         "start": "ng serve",
-        "start:local": "ng serve --host=192.168.0.178",
+        "start:local": "ng serve --host=192.168.0.178 --ssl",
         "build": "ng build",
         "test": "ng test",
         "lint": "ng lint",
